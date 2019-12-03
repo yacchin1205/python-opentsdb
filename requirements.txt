@@ -1,7 +1,6 @@
 Twisted
 numpy
 #opentsdb-pandas==0.0.1
-git+https://github.com/metrilyx/opentsdb-pandas#egg=opentsdb-pandas
 pandas
 python-dateutil==2.4.1
 pytz==2015.2
